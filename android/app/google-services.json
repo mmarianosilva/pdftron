@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "935570690470",
+    "firebase_url": "https://spike-pdf-links.firebaseio.com",
+    "project_id": "spike-pdf-links",
+    "storage_bucket": "spike-pdf-links.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935570690470:android:304d6d27de9151ac",
+        "android_client_info": {
+          "package_name": "com.oandmtech.spike_pdf_links"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935570690470-b6saao4jc90ds9o790vmkdkhg7fcd8c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArTWedxkhJg1mrXOMtu9WW1LzgSfceLgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935570690470-b6saao4jc90ds9o790vmkdkhg7fcd8c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
